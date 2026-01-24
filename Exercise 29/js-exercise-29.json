@@ -1,0 +1,10 @@
+
+{
+    "math": 78,
+    "physics": "passed",
+    "arabic": "failed",
+    "students": [
+        { "name": "Ali", "id": "C201", "class": "CA1" },
+        { "name": "Aliza", "id": "B202", "class": "BA1" }
+    ]
+}
