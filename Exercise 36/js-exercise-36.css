@@ -1,0 +1,19 @@
+
+#colorpreview  {
+    width: 200px;
+    height: 200px;
+    margin: 20px 0;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#colorhistory {
+   list-style: none;
+   padding: 0;
+}
+
+#colorhistory li {
+  margin: 5px 0;
+}
